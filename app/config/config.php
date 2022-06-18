@@ -2,7 +2,7 @@
 // DB Params
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root'); //your user
-define('DB_PASS', 'syondevin1212'); // your pw
+define('DB_PASS', ''); // your pw
 define('DB_NAME', 'shareposts'); // your dbname
 
 // App Root
